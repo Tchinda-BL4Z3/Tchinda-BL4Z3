@@ -18,15 +18,20 @@ I specialize in building **resilient digital ecosystems** and crafting **next-ge
 | **Principal** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Secondaire** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
 
----
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
----
+### 💻 Systèmes d'exploitation
+
+```text
+        LINUX (Tux)                 WINDOWS (10)
+
+        .--.                 ________________  ________________
+       |o_o |               /               / /               /
+       |:_/ |              /       I       / /       II      /
+      //   \ \            /_______________/ /_______________/
+     (|     | )            ________________  ________________
+    /'\_   _/`\           /               / /               /
+    \___)=(___/          /      III      / /       IV      /
+                        /_______________/ /_______________/
+```
 
 ### 📊 GitHub Stats
 [ Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchinda-BL4Z3&show_icons=true&theme=radical)
