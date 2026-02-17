@@ -37,12 +37,6 @@ I specialize in building **resilient digital ecosystems** and crafting **next-ge
 [ Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchinda-BL4Z3&show_icons=true&theme=radical)
 
 ---
-#### Badges 
-- [ Linux     ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- [ Windows   ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### Skill Icons
-- [ My Skills ](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ### 📫 Connect with me:
 - [ LinkedIn  ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] : ( https://www.linkedin.com/in/tchinda-fogang-pierre-legrand-869330350/ )
