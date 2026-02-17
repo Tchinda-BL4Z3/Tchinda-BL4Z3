@@ -23,15 +23,15 @@ I specialize in building **resilient digital ecosystems** and crafting **next-ge
 
 ---
 #### Badges 
-[ Linux     ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[ Windows   ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- [ Linux     ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- [ Windows   ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Skill Icons
-[ My Skills ](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+- [ My Skills ](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ### 📫 Connect with me:
-[ LinkedIn  ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] : ( https://www.linkedin.com/in/tchinda-fogang-pierre-legrand-869330350/ )
-[ Portfolio ](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)] : ( https://tchinda-fogang.netlify.app/ )
+- [ LinkedIn  ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] : ( https://www.linkedin.com/in/tchinda-fogang-pierre-legrand-869330350/ )
+- [ Portfolio ](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)] : ( https://tchinda-fogang.netlify.app/ )
 
 <!--
 **Tchinda-BL4Z3/Tchinda-BL4Z3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
