@@ -6,19 +6,37 @@ I specialize in building **resilient digital ecosystems** and crafting **next-ge
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** HTML5, CSS3, JavaScript, ...
-- **Backend:** Python (Django), PostgreSQL, ...
-- **Security:** Vulnerability Analysis, Penetration Testing, Network Security
-- **Tools:** Docker, Git, Linux (Zorin/Ubuntu), ...
 
-## 💻 Environnement de travail
-
-| Système | Logo |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Principal** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Secondaire** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Security** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) **Vulnerability Analysis, Pentesting** |
+| **DevOps/OS** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Zorin](https://img.shields.io/badge/Zorin-0CCAD4?style=for-the-badge&logo=zorin&logoColor=white) |
 
-### 💻 Systèmes d'exploitation
+---
+
+### 💻 Environnement de travail
+
+<table border="1">
+  <tr>
+    <td><b>Système</b></td>
+    <td><b>Logo</b></td>
+    <td><b>Usage</b></td>
+  </tr>
+  <tr>
+    <td>Principal</td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></td>
+    <td>Développement & Pentest</td>
+  </tr>
+  <tr>
+    <td>Secondaire</td>
+    <td><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /></td>
+    <td>Bureautique & Gaming</td>
+  </tr>
+</table>
+
+### 🖥️ Systèmes d'exploitation
 
 ```text
         LINUX (Tux)                 WINDOWS (10)
